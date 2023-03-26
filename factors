@@ -26,3 +26,4 @@ with open(argv[1]) as f:
             print("{}*{}".format(n//i, i))
             break
         print()
+
